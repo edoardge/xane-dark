@@ -9,8 +9,8 @@ including:
 
 - color-scheme
 
--kwin theme
+- kwin theme
 
--telegram theme
+- telegram theme
 
--wallpaper
+- wallpaper
